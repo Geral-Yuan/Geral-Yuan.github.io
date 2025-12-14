@@ -3,7 +3,7 @@
 <style>
 .edu-school {
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 </style>
@@ -16,7 +16,7 @@
 
   <div>
     <p><div class="edu-school">
-  Shanghai Jiao Tong University, Shanghai, China
+  <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, Shanghai, China
 </div><br>
     <strong>B.Eng. in Computer Science and Technology</strong><br>
     <em>Sep. 2022 - Jun. 2026 (expected)</em><br>
