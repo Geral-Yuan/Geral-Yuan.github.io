@@ -20,7 +20,7 @@
 </div><br>
     <strong>B.Eng. in Computer Science and Technology</strong><br>
     <em>Sep. 2022 - Jun. 2026 (expected)</em><br>
-    GPA: 95.0/100, Rank: 1/112</a></p>
+    GPA: 95.0/100, Rank: 1/112</p>
   </div>
 
 </div>
