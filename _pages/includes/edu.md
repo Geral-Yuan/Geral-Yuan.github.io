@@ -14,7 +14,7 @@
 
 /* 左侧 Logo 容器 */
 .edu-logo {
-  width: 180px;
+  width: 150px;
   height: 120px;
 
   display: flex;
@@ -58,7 +58,7 @@
 <div style="display:flex; align-items:center; gap:40px; margin-top:30px;">
 
   <div class="edu-logo">
-    <img src="/images/sjtu.webp" alt="SJTU Logo">
+    <img src="/images/sjtu_crop.webp" alt="SJTU Logo">
   </div>
 
   <div>
@@ -76,3 +76,5 @@
   </div>
 
 </div>
+
+<div style="height:60px;"></div>
